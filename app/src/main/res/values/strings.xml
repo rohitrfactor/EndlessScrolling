@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EndlessScrolling</string>
+    <string name="networkError">Couldn\'t fetch Data</string>
+    <string name="retry">Try Again</string>
+</resources>
